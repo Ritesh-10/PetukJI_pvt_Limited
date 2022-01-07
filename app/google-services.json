@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199692402487",
+    "project_id": "petukji-pvt-limited-assignment",
+    "storage_bucket": "petukji-pvt-limited-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199692402487:android:bd206441c07a4fe932e4b2",
+        "android_client_info": {
+          "package_name": "com.example.petukji_pvt_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199692402487-1c8v5n8jvpveqbk56eoguck934g4id12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcnhu3qcWAz0em2qLtqC7aVYk9-zzhoDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199692402487-1c8v5n8jvpveqbk56eoguck934g4id12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

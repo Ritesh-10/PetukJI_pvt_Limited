@@ -1,0 +1,2 @@
+rootProject.name = "petukji_pvt_assignment"
+include ':app'
